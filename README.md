@@ -27,7 +27,7 @@ A powerful Node.js geolocation service that automatically updates the MaxMind Ge
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/geeo.git
+   git clone https://github.com/ahadalichowdhury/geoip-service.git
    cd geeo
    ```
 
